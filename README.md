@@ -1,6 +1,6 @@
 # Multi-Router Network: OSPF, DHCP Relay and PAT
 <img width="672" height="326" alt="Screenshot 2026-10-15 002421" src="https://github.com/user-attachments/assets/ce3a5639-cfb7-4409-a0c2-14f8fcd3c947" />
-
+**Lab Environment:** This lab was designed and configured using the [PingMyNetwork Sandbox](https://pingmynetwork.com/sandbox).
 
 ## Overview
 
